@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">OperacionSalud</string>
+
+    <string name="btnCalculadora">Calculadora Cientifica</string>
+    <string name="btnSalud">Tu Salud</string>
+    <string name="btnSalir">Salir</string>
+
+    <string name="txt_Nro1">Ingrese el Primer Numero</string>
+    <string name="txt_Nro2">Ingrese el Segundo Numero</string>
+    <string name="tv_Respuesta">Respuesta</string>
+    <string name="btn_Sumar">+</string>
+    <string name="btn_Restar">-</string>
+    <string name="btn_Multiplicar">*</string>
+    <string name="btn_Dividir">/</string>
+    <string name="btn_Raiz">√</string>
+    <string name="btn_Seno">Sen</string>
+    <string name="btn_Coseno">Cos</string>
+    <string name="btn_Tangente">Tan</string>
+    <string name="btn_Factorial">!</string>
+    <string name="btn_Potencia">x^n</string>
+    <string name="btn_Random">rnd</string>
+    <string name="btn_Limpiar">Limpiar</string>
+
+    <string name="txtNombre">Ingrese Nombre</string>
+    <string name="txtAltura">Ingrese Altura</string>
+    <string name="txtPeso">Ingrese Peso</string>
+    <string name="rbMujer">Mujer</string>
+    <string name="rbHombre">Hombre</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnLimpiar">Limpiar</string>
+</resources>
